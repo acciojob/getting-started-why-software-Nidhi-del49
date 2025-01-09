@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. 
+/* Your CSS Code here */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f9f9f9;
+}
+
+#text {
+    font-size: 1.5rem;
+    color: #333;
+    text-align: center;
+}
